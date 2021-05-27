@@ -1,0 +1,43 @@
+.header{
+    background-color: blue;
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+.header a{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    font-size: 25px;
+    font-family: monospace;
+}
+
+.header li{
+    padding: 3px 0px;
+    color: white;
+}
+
+.wel h3{
+    font-weight: bold;
+    font-family: monospace;
+    font-size: 1.80cm;
+}
+
+.wel p{
+    font-family: monospace;
+    font-size: 1.5rem;
+}
+
+.read-more{
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    padding: 5px 0px;
+    font-family: monospace;
+    font-size: 25px;
+}
+
+.read-more:hover{
+    background-color:red;
+    columns: black;
+}
