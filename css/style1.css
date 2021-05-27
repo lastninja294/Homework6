@@ -1,43 +1,112 @@
-.header{
-    background-color: blue;
-    padding-top: 10px;
-    padding-left: 5px;
+.font{
+    font-family: poppins;
 }
 
-.header a{
-    text-decoration: none;
-    color: white;
-    padding: 5px;
-    font-size: 25px;
-    font-family: monospace;
+body{
+    font-family: poppins;
 }
 
-.header li{
-    padding: 3px 0px;
-    color: white;
-}
-
-.wel h3{
-    font-weight: bold;
-    font-family: monospace;
-    font-size: 1.80cm;
-}
-
-.wel p{
-    font-family: monospace;
+.fcolor{
+    color: black;
     font-size: 1.5rem;
 }
 
-.read-more{
-    text-decoration: none;
-    color: white;
-    background-color: blue;
-    padding: 5px 0px;
-    font-family: monospace;
-    font-size: 25px;
+.header {
+  background-color: blue;
+  padding-top: 10px;
+  padding-left: 5px;
 }
 
-.read-more:hover{
-    background-color:red;
-    columns: black;
+.header a {
+  text-decoration: none;
+  color: white;
+  padding: 5px;
+  font-size: 25px;
+  font-family: poppins;
 }
+
+.header li {
+  padding: 3px 0px;
+  color: white;
+}
+
+.wel h3 {
+  font-weight: bold;
+  font-family: poppins;
+  font-size: 1.8cm;
+}
+
+.wel p {
+  font-family: poppins;
+  font-size: 1.5rem;
+  color: rgb(10, 10, 10);
+}
+
+.read-more {
+  text-decoration: none;
+  color: white;
+  background-color: blue;
+  padding: 5px 0px;
+  font-family: poppins;
+  font-size: 25px;
+}
+
+.read-more:hover {
+  background-color: red;
+  columns: black;
+}
+
+.aboutpage {
+  padding-top: 10px;
+}
+
+.aboutpage h2 {
+  font-size: 2.5rem;
+  font-family: poppins;
+}
+.aboutpage p {
+  font-family: poppins;
+  font-size: 1.3rem;
+  color: rgb(0, 0, 0);
+}
+
+.courses {
+  padding-top: 10px;
+  font-family: poppins;
+}
+
+.courses h1, .coaching h1, .stories h1{
+  font-size: 50px;
+}
+
+.courses h2{
+    font-size: 35px;
+}
+
+.courses p {
+  font-size: 1.3rem;
+  color: rgb(0, 0, 0);
+}
+
+.coaching,.fcolor{
+    font-family: poppins;
+}
+
+.coaching ul{
+    font-size: 1.7rem;
+    color: rgb(0, 0, 0);
+}
+
+.stories h2{
+    font-size: 35px;
+    font-weight: 600;
+    color: rgb(26, 26, 151);
+    margin-bottom: 0px;
+}
+
+.stories small{
+    font-size: 25px;
+    font-weight: 900;
+    padding-top: 0px;
+}
+
